@@ -1,0 +1,22 @@
+{
+  "name": "autogenscreenshot",
+  "version": "1.0.0",
+  "description": "\"宣传图工具\"",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.222:9090/AutoShowTool.git"
+  },
+  "keywords": [
+    "\"autoAppleShow\""
+  ],
+  "author": "\"hy\"",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "image-size": "^0.8.3"
+  }
+}
