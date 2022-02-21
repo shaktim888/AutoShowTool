@@ -1,0 +1,103 @@
+var USER_CONFIG = {
+	//
+	heng:{
+		"55":{
+			ch:{
+				"screen":{
+					scale:0.86,
+					offset:{x:-350,y:300}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:-400,y:80},//文字
+				}
+			},
+			en:{
+				"screen":{
+					scale:0.86,
+					offset:{x:-350,y:200}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:0,y:100},//文字
+				}
+			}
+		},
+		"65":{
+			ch:{
+				"screen":{
+					scale:1,
+					offset:{x:-400,y:200}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:-400,y:50},//文字
+				}
+			},
+			en:{
+				"screen":{
+					scale:1,
+					offset:{x:-400,y:200}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:0,y:100},//文字
+				}
+			}
+		}
+	},
+	shu:{
+		"55":{
+			ch:{
+				"screen":{
+					scale:0.7,
+					offset:{x:-350,y:0}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:-400,y:80},//文字
+				}
+			},
+			en:{
+				"screen":{
+					scale:0.7,
+					offset:{x:-350,y:0}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:0,y:100},//文字
+				}
+			}
+		},
+		"65":{
+			ch:{
+				"screen":{
+					scale:0.7,
+					offset:{x:-400,y:0}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:-400,y:50},//文字
+				}
+			},
+			en:{
+				"screen":{
+					scale:0.7,
+					offset:{x:-400,y:0}//截图
+				},
+				"label":{
+					scale:1,
+					offset:{x:0,y:100},//文字
+				}
+			}
+		}
+	}
+	
+}
+module.exports = {
+	USER_CONFIG:USER_CONFIG,
+};
+
+
+
+
