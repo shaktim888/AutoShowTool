@@ -1,0 +1,6 @@
+/node_modules
+output/
+/package-lock.json
+
+cfg/1. 检测到relpath字段
+cfg/优化 icon 生成规则
